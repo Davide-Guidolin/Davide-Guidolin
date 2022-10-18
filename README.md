@@ -16,9 +16,9 @@
   </a> 
 </p>
 
-<p align="center">I have a bachelor's degree in Computer Science🎓</p>
-<p align="center">I'm attending the master degree in Artificial Intelligence Systems📙</p>
-<p align="center">I'm specialising in Computer Vision 🖥️👀</p>
+* I have a bachelor's degree in Computer Science🎓
+* I'm attending the master degree in Artificial Intelligence Systems📙
+* I'm specialising in Computer Vision 🖥️👀
 
 <!---
 Davide-Guidolin/Davide-Guidolin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
