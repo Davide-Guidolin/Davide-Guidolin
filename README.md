@@ -20,4 +20,5 @@
 * I'm attending the master degree in Artificial Intelligence Systems📙
 * I'm specialising in Computer Vision 🖥️👀
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
+![Snake animation](https://github.com/Davide-Guidolin/Davide-Guidolin/blob/output/github-contribution-grid-snake.svg)
