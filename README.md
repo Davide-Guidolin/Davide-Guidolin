@@ -19,6 +19,3 @@
 * I have a bachelor's degree in Computer Science🎓
 * I'm attending the master degree in Artificial Intelligence Systems📙
 * I'm specialising in Computer Vision 🖥️👀
-
-
-![Snake animation](https://github.com/Davide-Guidolin/Davide-Guidolin/blob/output/github-contribution-grid-snake.svg)
