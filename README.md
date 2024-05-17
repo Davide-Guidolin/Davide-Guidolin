@@ -16,6 +16,9 @@
   </a> 
 </p>
 
-* I have a bachelor's degree in Computer Science🎓
-* I'm attending the master degree in Artificial Intelligence Systems📙
-* I'm specialising in Computer Vision 🖥️👀
+* Bachelor's degree in Computer Science🎓
+* Master's degree in Artificial Intelligence Systems🎓
+* Worked at: 💼💻
+  *  VUI inc. (NLP intern)
+  *  Amazon AWS (Software Engineer intern)
+  *  PhotoRoom (Computer Vision intern)  
