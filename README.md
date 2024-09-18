@@ -18,7 +18,7 @@
 
 * Bachelor's degree in Computer Science🎓
 * Master's degree in Artificial Intelligence Systems🎓
-* Working experience: 💼💻
+* Work experience: 💼💻
   *  GPI SpA (AI Researcher) 
   *  PhotoRoom (Computer Vision intern)  
   *  Amazon AWS (Software Engineer intern)
