@@ -18,7 +18,8 @@
 
 * Bachelor's degree in Computer Science🎓
 * Master's degree in Artificial Intelligence Systems🎓
-* Worked at: 💼💻
-  *  VUI inc. (NLP intern)
-  *  Amazon AWS (Software Engineer intern)
+* Working experience: 💼💻
+  *  GPI SpA (AI Researcher) 
   *  PhotoRoom (Computer Vision intern)  
+  *  Amazon AWS (Software Engineer intern)
+  *  VUI inc. (NLP intern)
